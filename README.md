@@ -1,5 +1,4 @@
 # hello-world
-My new repository
 
 I am Bryan Dacuno ready to conquer the world!
 
